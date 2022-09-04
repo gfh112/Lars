@@ -24,14 +24,17 @@ We usually group black holes into two groups:
   <img src="../images/BH_image.jpeg" alt="Black hole">
     <figcaption>Black hole from the interstellar movie</figcaption>
 </figure>
+
 Formation of Black Holes
 ======
 The stellar mass black holes are primarily assumed to be formed after a supernova explosion at the end of high mass stars' life cycle. Simplified, the black hole is formed when all atoms are turned into iron and no more energy can be extracted by fusion (the primary energy source of stars). The stellar core will continue to contract since there is no radiation pressure pushing back on the gravity, so the core becomes denser and denser until it becomes a black hole and eject the envelope in an explosion known as a supernova.
 
 The supermassive black holes are found in the centre of galaxies, and we don't know exactly how they got to be so large. The main formation theory of supermassive black holes is they started as normal stellar mass black holes in the early universe and grew in size and mass as they migrated towards to galactic centre by consuming gas and merging with other black holes. However, it is difficult to explain the high mass of some young supermassive black holes without the black holes consuming gas above the so called Eddington limit. Black holes accreting gas above the Eddington limit are called super-Eddington accretors.
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
-
+<figure>
+  <img src="../images/SN_Fe.jpeg" alt="SN">
+    <figcaption>Fe builds up in the core until a black hole is formed and the star explodes</figcaption>
+</figure>
 
 Observing Black Holes
 ======
@@ -39,7 +42,11 @@ Black holes are black - it is in their name, so how do we observe them? It is tr
 
 Only due to some genius design by effectively making a telescope the size of the earth, we were able to spatially resolve a black hole in 2019 with the Event Horizon Telescope, but this is only possible for very few sources (less than 5). Therefore, if we want to learn more about how black holes grow by accreting gas and the structure of the gas, we need another method to observe and resolve them.
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
+
+<figure>
+  <img src="../images/EHT.jpeg" alt="Black hole EHT">
+    <figcaption>M87 black hole observed in 2019 with the Event Horizon</figcaption>
+</figure>
 
 
 Disk Structure
@@ -53,8 +60,11 @@ Classical thin: when the accretion rate is just below the limit (0.05<ṁ<1). He
 Radiative Inefficient Accretion Flow happens when the accretion rate is much below the limit (ṁ<0.05). Here, the disk will be geometrically thick, but due to the low accretion rate it is no longer be dense.
 
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
 
+<figure>
+  <img src="../images/disk_structure.jpeg" alt="Disk structure">
+    <figcaption> Depending on the accretion rate with respect to Eddington limit (ṁ), we have three structures [Muller 14].</figcaption>
+</figure>
 
 X-ray Reflection
 ======
@@ -62,8 +72,10 @@ The standard geometry adopted to explain the X-ray spectra of accreting black ho
 
 The reflected Fe K-alpha line will undergo a change in its energy depending on where it is emitted. The disk is rotating. If the gas is moving towards us when emitting the Fe K-alpha line, the photon will gain energy (Doppler blueshift) and if it is moving away from us the photon will lose energy (Doppler redshift). Also, if the Fe K-alpha line is produced close to the black hole, the energy will be redshifted due to gravitational redshift.
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
-
+<figure>
+  <img src="../images/X-ray_reflection.jpeg" alt="X-ray reflection">
+    <figcaption> Illustration of the innermost disk geometry in the thin disk regime. We have a corona located above the black hole where it irradiates isotropically. Roughly half the light escapes and the other half irradiates the disk producing the reflection spectrum. </figcaption>
+</figure>
 	
 X-ray Reverberation
 ======
@@ -73,8 +85,11 @@ The timing resolution in this geometry comes from the corona being highly variab
 
 The time delay together with the energy of the Fe K-alpha lines give a unique set of parameter for reflection. By comparing the observed time and energy delay to our model, we can constrain the mass (and hence the size) of the black hole, the height of the corona and the spin of the black hole.
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
-
+<figure>
+  <img src="../images/2d_transfer.jpeg" alt="2D trasnfer">
+    <figcaption> Each photon has a unique time delay and energy depending on where they are reflected. Even though the shortest photon path is being reflected close to the black hole, the photon actually arrives late due to gravitational time delay [Bambi 17]. For a 2/3D visualisation of the disk response, please check out the videos in the section Videos. </figcaption>
+</figure>
+	
 
 X-Ray Reverberation on Super-Eddington Disk Structure
 ======
@@ -84,4 +99,7 @@ The super-Eddington disk structure I investigate is shown to the right (or below
 
 I am investigating how this difference in reflection geometry propagates in the X-ray reverberation signals and I have come up with observational tools to distinguish the two disk structures. Also, I have the laid the foundation to constrain parameters such as wind acceleration and half-opening angle of the funnel for future observations of super-Eddington accretors in addition to the mass of the black hole and height of the lamppost. You can find the results in my two papers: Article 1 and Article 2.
 
-<img src="/images/BH_image.jpeg" alt="Black hole from the interstellar movie">
+<figure>
+  <img src="../images/super-Eddington.jpeg" alt="super-Eddington">
+    <figcaption> Super-Eddington disk structure for ṁ=15, spin a=0.8, and mass M=5 million solar masses. The reflection surface is the red line where the Fe K-alpha lines will be produced and can freely escape to the observer through the narrow funnel. The colour indicated the density value, which decreases towards the pole and the wind velocity given by the contour lines increases towards the pole. The reflection surface lies in the fast moving wind and not the exposed disk [Thomsen 2019] </figcaption>
+</figure>
