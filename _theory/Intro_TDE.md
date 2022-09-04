@@ -1,6 +1,5 @@
 ---
 title: 'Blog Post number 3'
-date: 2014-08-14
 permalink: /theory/Radiative_Transfers
 tags:
   - cool posts

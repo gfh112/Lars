@@ -1,6 +1,5 @@
 ---
 title: 'Blog Post number 2'
-date: 2013-08-14
 permalink: /theory/TDE
 tags:
   - cool posts

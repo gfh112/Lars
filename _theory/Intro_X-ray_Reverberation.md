@@ -1,6 +1,5 @@
 ---
 title: 'Blog Post number 1'
-date: 2012-08-14
 permalink: /theory/X-ray_reverberation
 tags:
   - cool posts
