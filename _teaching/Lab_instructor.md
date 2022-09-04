@@ -9,8 +9,7 @@ location: "Hong Kong"
 ---
 
 
-Measurement of dynamic response of a second
-order system
+Measurement of dynamic response of a second order system
 ======
 
 
