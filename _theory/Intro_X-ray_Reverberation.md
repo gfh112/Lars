@@ -21,7 +21,7 @@ We usually group black holes into two groups:
 * Stellar mass black holes with mass of 5-100 solar masses and radius of order 10 km
 * Supermassive black holes with mass 0.1-1000 million solar masses and radius comparable to the distance from earth to the sun.
 
-<img src="../images/BH_image.jpeg" alt="Black hole from the interstellar movie">
+<img src="../images/BH_image.jpeg" alt="Black hole from the interstellar movie 1">
 
 
 Formation of Black Holes
