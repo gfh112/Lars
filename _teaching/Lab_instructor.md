@@ -1,5 +1,5 @@
 ---
-title: "Lab instructor in classical mechaincs (PHYS3350)"
+title: "Lab instructor in classical mechaincs (PHYS3350) 2019"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/lab3350

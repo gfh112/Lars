@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Priciples of Astronomy (PHYS3652)"
+title: "Teaching Assistant in Priciples of Astronomy (PHYS3652) 2019"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/priciples

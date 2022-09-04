@@ -1,5 +1,5 @@
 ---
-title: "Virtual instructor for entire year 2 semester 1 lab (PHYS 2250, 2255, 2260, 2265)"
+title: "Virtual instructor for entire year 2 semester 1 lab (PHYS 2250, 2255, 2260, 2265) 2020"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/virtual_lab
