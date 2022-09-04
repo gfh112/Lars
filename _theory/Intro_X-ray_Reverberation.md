@@ -20,10 +20,10 @@ Black holes obtained their name by being such compact objects that the space tim
 We usually group black holes into two groups:
 * Stellar mass black holes with mass of 5-100 solar masses and radius of order 10 km
 * Supermassive black holes with mass 0.1-1000 million solar masses and radius comparable to the distance from earth to the sun.
-
-<img src="../images/BH_image.jpeg" alt="Black hole from the interstellar movie 1">
-
-
+<figure>
+  <img src="../images/BH_image.jpeg" alt="Black hole">
+    <figcaption>Black hole from the interstellar movie</figcaption>
+</figure>
 Formation of Black Holes
 ======
 The stellar mass black holes are primarily assumed to be formed after a supernova explosion at the end of high mass stars' life cycle. Simplified, the black hole is formed when all atoms are turned into iron and no more energy can be extracted by fusion (the primary energy source of stars). The stellar core will continue to contract since there is no radiation pressure pushing back on the gravity, so the core becomes denser and denser until it becomes a black hole and eject the envelope in an explosion known as a supernova.
