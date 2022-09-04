@@ -2,12 +2,19 @@
 title: 'Blog Post number 1'
 permalink: /theory/X-ray_reverberation
 tags:
-  - cool posts
-  - category1
-  - category2
+  - X-ray reverberation
+  - X-ray fluoresence
+  - Fe line
+  - Fe K-alpha
+  - X-ray spectrim
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Introduction to X-ray Reverberation
+======
+
+Black holes are some of the most interesting astrophysical objects to study since they can be used to test our theories under the most extreme conditions. Such as two black holes colliding producing gravitational waves, how lights and particles move in curved space time, gravitational lenses and tidal disruption events. I focus on how black holes grow in size and mass due to gas accretion. 
+
+
 
 Headings are cool
 ======
