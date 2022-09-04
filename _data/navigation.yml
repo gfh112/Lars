@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Theory"
+    url: /theory/
+
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
@@ -8,13 +14,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Theory"
-    url: /theory/
-    
   - title: "CV"
     url: /cv/
     

@@ -6,7 +6,9 @@ tags:
   - X-ray fluoresence
   - Fe line
   - Fe K-alpha
-  - X-ray spectrim
+  - X-ray spectrum
+  - Black holes
+  - BH
 ---
 
 Black holes are some of the most interesting astrophysical objects to study since they can be used to test our theories under the most extreme conditions. Such as two black holes colliding producing gravitational waves, how light and particles move in curved space time, gravitational lenses and tidal disruption events. In this section, I will introduce black holes, how we can observe black holes, how black holes grow, and lastly how we can use X-ray reverberation as a link between theory/simulations and observation.  
