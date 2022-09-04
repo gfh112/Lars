@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/lab3350
 venue: "The University of Hong Kong, Department of Physics"
-#date: 2019
+date: 2019-09-01
 location: "Hong Kong"
 ---
 test
