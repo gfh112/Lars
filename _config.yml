@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _theory
   - scope:
       path: ""
-      type: posts
+      type: theory
     values:
       layout: single
       author_profile: true

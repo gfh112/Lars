@@ -7,7 +7,7 @@ venue: "The University of Hong Kong, Deprtment of Physics"
 date: 2020-09-01
 location: "Hong Kong"
 ---
-Due to Covid, I demonstrated these lab exercises live online. 
+Due to Covid, I demonstrated these lab exercises live online, so I could ask students questions to see if they had understood the assignment, and they could ask me questions.
 
 PHYS2250
 ======
