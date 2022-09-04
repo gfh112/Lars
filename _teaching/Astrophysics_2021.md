@@ -9,10 +9,28 @@ location: "Hong Kong"
 ---
 I was teaching assistant for this course twice. The full course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653" target="_blank">here</a>. 
 
-Update. Does it work, test again
 
 Topics I covered
 ======
-
-Homework
-======
+* Gravity
+    * N-body problem
+    * Keppler's Laws
+    * Binary Systems
+    * 3-Body Problem
+    * Lagrange points
+    * Hydrostatic-equilibrium
+* Special Relativity
+    * Time dialation, legnth contraction
+    * Relativistic momentum and energy
+    * Doppler shifts, relativistic beaming
+*  Atomic structure
+    * Bohr model
+    * Quantum mechanics
+*  Radiative processes 
+    * Spectral line transitions
+    * Kirshoff's Laws
+    * Spectral stellar classification
+* Statistical mechaincs
+    * Blackbody radiation
+    * Boltzman Equation
+    * Saha equation 
