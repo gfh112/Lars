@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,28 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<div class="video_wrapper"> 
-<iframe width="50" height="100" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Super-Eddington Disk" frameborder="0"></iframe>
-<iframe width="50" height="100" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Thin Disk" frameborder="0" ></iframe> 
-
-
-<div class="container">
-  <br>
-  <br>
-<div class="row">
-  <div class="col-sm-6">
-    <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SMKPKGW083c?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DGQwd1_dpuc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
-</div>
-
 
 Education
 ======

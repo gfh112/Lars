@@ -1,9 +1,21 @@
 ---
-layout: archive
+layout: default
 title: "Test"
 collection: portfolio
 permalink: /portfolio/GR-lightbending
+author_profile: true
 ---
+
+
+Simulation of 10,000 photons from a lamppost corona to a thin and super-Eddington disk in general relativity. 
+<div class="video_wrapper"> 
+<iframe width="200" height="400" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Super-Eddington Disk" frameborder="0"></iframe>
+<iframe width="200" height="400" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Thin Disk" frameborder="0" ></iframe> 
+</div>
+
+
+
+
 <div class="container">
   <br>
   <br>
@@ -33,11 +45,6 @@ permalink: /portfolio/GR-lightbending
 
 
 
-Simulation of 10,000 photons from a lamppost corona to a thin and super-Eddington disk in general relativity. 
-<div class="video_wrapper"> 
-<iframe width="50" height="100" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Super-Eddington Disk" frameborder="0"></iframe>
-<iframe width="50" height="100" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Thin Disk" frameborder="0" ></iframe> 
-</div>
 
 
 This video is created with the Python Package iPyVolume. 
