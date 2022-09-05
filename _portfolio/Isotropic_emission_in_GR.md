@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Test"
 collection: teaching
 permalink: /portfolio/GR-lightbending
+author_profile: true
+
 ---
 Simulation of 10,000 photons from a lamppost corona to a thin and super-Eddington disk in general relativity. 
 <div class="video_wrapper"> 
