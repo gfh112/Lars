@@ -8,6 +8,9 @@ date: 2020-01-01
 location: "Hong Kong"
 ---
 The course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3652" target="_blank">here</a>
+<a href="http://www.google.com" target="_blank"> 
+    <img width="220" height="250" border="0" align="center"  src='../images/X-ray_movie.png' > 
+</a>
 
 * Gravity
     * Keppler's Laws

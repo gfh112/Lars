@@ -1,6 +1,6 @@
 ---
 title: "Test"
-excerpt: "Short description of portfolio item number 2 <br/><img src='../images/500x300.png'  alt="test" onclick="window.open('https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation', '_blank')>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='../images/500x300.png'>"
 collection: portfolio
 permalink: /portfolio/test
 ---
