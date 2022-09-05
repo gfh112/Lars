@@ -14,4 +14,4 @@ We can see how the photons follow null geodesics until they hit the reflection s
 
 
 
-<iframe width="950" height="548" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Simulation of 10,000 Photons from a Lamppost Corona to a Super-Eddington Disk in General Relativity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="548" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Simulation of 10,000 Photons from a Lamppost Corona to a Super-Eddington Disk in General Relativity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
