@@ -7,7 +7,7 @@ venue: "The University of Hong Kong, Department of Physics"
 date: 2019-09-01
 location: "Hong Kong"
 ---
-
+The two lab manuals I taught can be accesed here.
 
 Measurement of dynamic response of a second order system
 ======

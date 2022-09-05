@@ -9,4 +9,4 @@ paperurl: 'https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..21T/abstract'
 ---
 In this paper, we investigate the X-ray fluorescene signal produced in a super-Eddington disk geometry and compare it to the standard thin disk.  We find the Fe lines produced from a super-Eddington setting are more blushifted and symmetric than their thin disk counterparts
 
-[Find paper here](https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..21T/abstract)
+(<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..21T/abstract" target="_blank">Find the paper here</a>)
