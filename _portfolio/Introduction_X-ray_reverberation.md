@@ -1,6 +1,6 @@
 ---
 title: "Movie introduction to X-ray Reverberation"
-collection: portfolio
+collection: teaching
 permalink: /portfolio/Introduction_X-ray_reverberation
 ---
 This movie was created as public outreach, and was played during the Science Expo 2021 in Hong Kong.
