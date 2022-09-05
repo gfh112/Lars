@@ -1,6 +1,6 @@
 ---
 title: "Test"
-collection: portfolio
+collection: teaching
 permalink: /portfolio/GR-lightbending
 ---
 <div class="container">
