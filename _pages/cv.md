@@ -6,8 +6,24 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+<div class="container">
+  <br>
+  <br>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SMKPKGW083c?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DGQwd1_dpuc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+</div>
 
 Education
 ======
