@@ -1,5 +1,5 @@
 ---
-title: "Introduction to X-ray Reverberation"
+title: "Movie introduction to X-ray Reverberation"
 excerpt: "This video was created as public outreach for a science Expo in 2021 in HK and it itroduces X-ray reverberation <br/><img src='/images/X-ray_movie.png'>"
 collection: portfolio
 ---
