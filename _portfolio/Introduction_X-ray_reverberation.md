@@ -1,8 +1,6 @@
 ---
 title: "Movie introduction to X-ray Reverberation"
-excerpt: "This video was created as public outreach for a science Expo in 2021 in HK and it itroduces X-ray reverberation <br/> <a href="https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation" target="_blank">
-  <img width="220" height="250" border="0" align="center"  src='../images/X-ray_movie.png'>
-</a> "
+excerpt: "This video was created as public outreach for a science Expo in 2021 in HK and it itroduces X-ray reverberation <br/><img src='../images/X-ray_movie.png'>" 
 collection: portfolio
 permalink: /portfolio/Introduction_X-ray_reverberation
 
