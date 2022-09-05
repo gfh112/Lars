@@ -1,9 +1,7 @@
 ---
-layout: default
 title: "Test"
 collection: portfolio
 permalink: /portfolio/GR-lightbending
-author_profile: true
 ---
 
 
