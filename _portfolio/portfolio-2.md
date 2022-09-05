@@ -6,7 +6,7 @@ permalink: /portfolio/test
 ---
 
 <a href="http://www.google.com" target="_blank"> 
-    <img width="220" height="250" border="0" align="center"  src='../../images/X-ray_movie.png' > 
+    <img width="220" height="250" border="0" align="center"  src='../images/X-ray_movie.png' > 
 </a>
 <br/>
-<img src='../../images/X-ray_movie.png'> 
+<img src='../images/X-ray_movie.png'> 
