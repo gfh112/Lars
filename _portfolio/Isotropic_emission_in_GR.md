@@ -1,6 +1,7 @@
 ---
+layout: archive
 title: "Test"
-collection: teaching
+collection: portfolio
 permalink: /portfolio/GR-lightbending
 ---
 <div class="container">
