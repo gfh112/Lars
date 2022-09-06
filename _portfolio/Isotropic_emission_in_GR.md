@@ -7,26 +7,10 @@ author_profile: true
 
 ---
 Simulation of 10,000 photons from a lamppost corona to a thin and super-Eddington disk in general relativity. 
-<iframe width="749" height="489" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Simulation of 10,000 Photons from a Lamppost Corona to a Thin Disk in General Relativity." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="324" height="244" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Simulation of 10,000 Photons from a Lamppost Corona to a Thin Disk in General Relativity." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="324" height="244" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Simulation of 10,000 Photons from a Lamppost Corona to a Super-Eddington Disk in General Relativity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<div class="container">
-  <br>
-  <br>
-<div class="row">
-  <div class="col-sm-6">
-    <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SMKPKGW083c?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DGQwd1_dpuc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
-</div>
 
 
 
