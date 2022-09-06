@@ -8,7 +8,7 @@ author_profile: true
 ---
 Simulation of 10,000 photons from a lamppost corona to a thin and super-Eddington disk in general relativity. 
 <iframe width="324" height="244" src="https://www.youtube.com/embed/RYWbcVQG_Ww" title="Simulation of 10,000 Photons from a Lamppost Corona to a Thin Disk in General Relativity." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="324" height="244" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Simulation of 10,000 Photons from a Lamppost Corona to a Super-Eddington Disk in General Relativity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="324" height="244" src="https://www.youtube.com/embed/BFdu8k88fXs" title="Super-Eddington disk" frameborder="0" allow="accelerometer=1; autoplay=1; clipboard-write=0; encrypted-media=0; gyroscope=0; picture-in-picture=1" allowfullscreen=1></iframe>
 
 
 
