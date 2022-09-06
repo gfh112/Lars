@@ -13,7 +13,7 @@ tags:
 
 Black holes are some of the most interesting astrophysical objects to study since they can be used to test our theories under the most extreme conditions. Such as two black holes colliding producing gravitational waves, how light and particles move in curved space time, gravitational lenses and tidal disruption events. In this section, I will introduce black holes, how we can observe black holes, how black holes grow, and lastly how we can use X-ray reverberation as a link between theory/simulations and observation.  
 Please
-(<a href="https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation/" target="_blank">click here</a>) for a brief video introduction to X-ray reverberation 
+<a href="https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation" target="">click here</a> for a brief video introduction to X-ray reverberation 
 
 
 Black Holes
