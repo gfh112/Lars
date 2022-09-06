@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Test"
+title: "General relativistic lightbending"
 collection: teaching
 permalink: /portfolio/GR-lightbending
 author_profile: true
