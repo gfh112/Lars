@@ -47,4 +47,4 @@ Service and leadership
 * Host and organizer of the weekly Astronomy Journal club at the University of Hong Kong (2019-2022)
 * Virtual Lab Instructor and of all 2nd Year physics courses in HKU PHYS 2250, 2255, 2260, and 2265 during online teaching (2020)
 * Research consultant on 3 projects made by juniors in my research group (2020-now)  
-* Created a video for the Science Expo on Oct 13 2021 in Hong Kong to promote research in physics for the public https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation
+* Created a <a href="[https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3652](https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation)" target="_blank">video</a> for the Science Expo on Oct 13 2021 in Hong Kong to promote research in physics for the public.
