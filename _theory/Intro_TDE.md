@@ -1,19 +1,13 @@
 ---
-title: 'Blog Post number 3'
-permalink: /theory/Radiative_Transfers
+title: 'Introduction to Tidal Disruption Events'
+permalink: /theory/TDE
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Tidal Disruption Event
+  - TDE
+  - Black Holes
+  - Black Hole Growth
+  - Accretion
+  - Super-Eddington Accretion
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
+To be finished!
 ------
