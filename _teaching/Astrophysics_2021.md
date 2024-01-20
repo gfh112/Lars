@@ -4,10 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Astrophysics
 venue: "The University of Hong Kong, Department of Physics"
-date: 2021-01-01
+date: 2021-01-01 to 2023-06-01
 location: "Hong Kong"
 ---
-I was a teaching assistant for this course twice. The full course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653" target="_blank">here</a>. 
+I was a teaching assistant for this course for three years starting in 2021 and finishing in 2023. The full course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653" target="_blank">here</a>. 
 
 
 Topics I covered
@@ -20,7 +20,7 @@ Topics I covered
     * Lagrange points
     * Hydrostatic-equilibrium
 * Special Relativity
-    * Time dilation, legnth contraction
+    * Time dilation, length contraction
     * Relativistic momentum and energy
     * Doppler shifts, relativistic beaming
 *  Atomic structure
