@@ -7,7 +7,7 @@ venue: "The University of Hong Kong, Department of Physics"
 date: 2021-01-01
 location: "Hong Kong"
 ---
-I was teaching assistant for this course twice. The full course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653" target="_blank">here</a>. 
+I was a teaching assistant for this course twice. The full course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653" target="_blank">here</a>. 
 
 
 Topics I covered
@@ -20,7 +20,7 @@ Topics I covered
     * Lagrange points
     * Hydrostatic-equilibrium
 * Special Relativity
-    * Time dialation, legnth contraction
+    * Time dilation, legnth contraction
     * Relativistic momentum and energy
     * Doppler shifts, relativistic beaming
 *  Atomic structure
@@ -28,9 +28,9 @@ Topics I covered
     * Quantum mechanics
 *  Radiative processes 
     * Spectral line transitions
-    * Kirshoff's Laws
+    * Kirchhoff's Laws
     * Spectral stellar classification
-* Statistical mechaincs
+* Statistical mechanics
     * Blackbody radiation
-    * Boltzman Equation
+    * Boltzmann Equation
     * Saha equation 
