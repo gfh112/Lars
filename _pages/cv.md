@@ -12,16 +12,16 @@ Education
 ======
 * B.S. in Physics, Copenhagen University, 2016
 * M.S. in Astrophysics, Copenhagen University, 2019
-* Ph.D in Astrophysics, The University of Hong Kong, 2023 (expected)
+* PhD in Astrophysics, The University of Hong Kong, 2023
 
 
 Skills
 ======
-* Statistical analysis and model comparisson using Bayesian framework
-* Computational skills in the programing languages:
+* Statistical analysis and model comparison using Bayesian framework
+* Computational skills in the programming languages:
   * Python, primarily used for post-processing of data and as a visualization tool
   * C++, modifying existing code and parallelise problems
-  * Knowledgable in fortran, MatLab, IDL and iraf 
+  * Knowledgable in SQL, Fortran, MatLab, IDL and Iraf 
 * Quality control and testing of new simulation results 
 
 Publications
@@ -44,7 +44,7 @@ Teaching
   
 Service and leadership
 ======
-* Host and organizer of weekly Astronomy Journal club, The University of Hong Kong (2019-2022)
-* Virtual Lab Instructor and of all 2nd Year physics courses in HKU PHYS 2250, 2255, 2260, 2265 during online teatching (2020)
-* Research consultant on 2 projects made by juniors in my research group (2020-now)  
-* Created a video for the Science Expo on Oct 13 2021 in Hong Kong to promote research in physics for the public (find it here)
+* Host and organizer of the weekly Astronomy Journal club at the University of Hong Kong (2019-2022)
+* Virtual Lab Instructor and of all 2nd Year physics courses in HKU PHYS 2250, 2255, 2260, and 2265 during online teaching (2020)
+* Research consultant on 3 projects made by juniors in my research group (2020-now)  
+* Created a video for the Science Expo on Oct 13 2021 in Hong Kong to promote research in physics for the public https://gfh112.github.io/Lars/portfolio/Introduction_X-ray_reverberation
