@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Radiative Transfers'
-permalink: /theory/TDE
+permalink: /theory/Radiative_Transfer
 tags:
   - Radiative Transfer
   - RT
