@@ -8,6 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
+Press to download my <a href="/path/to/your/file.pdf" download> CV </a>
+ and my <a href="/path/to/your/file.pdf" download> Academic CV </a> 
+
 Education
 ======
 * B.S. in Physics, Copenhagen University, 2016
@@ -21,8 +24,9 @@ Skills
 * Computational skills in the programming languages:
   * Python, primarily used for post-processing of data and as a visualization tool
   * C++, modifying existing code and parallelise problems
-  * Knowledgable in SQL, Fortran, MatLab, IDL and Iraf 
-* Quality control and testing of new simulation results 
+  * Knowledgable in SQL, Fortran, MatLab, IDL and Iraf
+* Familiar with different Machine-learning techniques
+* Quality control and testing of new simulation results
 
 Publications
 ======
