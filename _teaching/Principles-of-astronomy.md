@@ -7,7 +7,7 @@ venue: "The University of Hong Kong, Department of Physics"
 date: 2020-01-01
 location: "Hong Kong"
 ---
-The course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3652" target="_blank">here</a>
+The course description can be found <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3652" target="_blank">here</a>.
 The course changed its name to Astrophysics in 2021 and I was a teaching assistant there from 2021-2023: 
 
 
