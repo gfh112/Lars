@@ -2,12 +2,12 @@
 title: "An asymmetric electron-scattering photosphere around optical tidal disruption events"
 collection: publications
 permalink: /publications/polarisation_TDE
-excerpt: 'I am one of the co-authors. In the paper, we present the first observed polarization data of TDEs and find the line polarisation levels are in agreement with an axis symetric thick envelope of free electrons extending 1000s of gravitational radii.'
+excerpt: 'In this paper, we present the first observed polarization data of TDEs and find the line polarisation levels are in agreement with an axis-symmetric thick envelope of free electrons extending 1000s of gravitational radii. I am the fifth author of this paper. '
 date: 2022-07-01
 venue: 'Nature Astronomy'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022arXiv220706855L/abstract'
 ---
-I am one of the co-authors. In the paper, we present the first observed polarization data of TDEs and find the line polarisation levels are in agreement with an almost axis symetric thick envelope of free electrons extending 1000s of gravitational radii. 
+In this paper, we present the first observed polarization data of TDEs and find the line polarisation levels are in agreement with an axis-symmetric thick envelope of free electrons extending 1000s of gravitational radii. I am the fifth author of this paper. 
 
 <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220706855L/abstract" target="_blank">Access the paper here</a>
 
