@@ -8,7 +8,7 @@ venue: 'Hong Kong University Library'
 paperurl: 'Lars_PhD_thesis_upload.pdf'
 ---
 
-<a href="Lars_PhD_thesis_upload.pdf" target="_blank">Access the paper here</a>
+<a href="https://gfh112.github.io/Lars/Lars_PhD_thesis_upload.pdf" target="_blank">Access the paper here</a>
 
 Abstract: This dissertation investigates the observational characteristics of super-Eddington
 accretion and outflow through advanced radiative transfer simulations.
