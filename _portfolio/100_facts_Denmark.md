@@ -6,4 +6,4 @@ permalink: /portfolio/100_Facts
 author_profile: true
 ---
 This book was created as a gift to the guests who attended our wedding in 2022. 
-<embed src="Book_100_facts_Denmark.pdf" width="500" height="600" type="application/pdf">
+<embed src="Book_100_facts_Denmark.pdf" width="210" height="297" type="application/pdf">
