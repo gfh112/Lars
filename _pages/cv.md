@@ -8,8 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-Press to download my <a href="https://github.com/gfh112/Lars/CV_LarsThomsen_2024.pdf" download> CV </a>
- and my <a href="https://github.com/gfh112/Lars/Academic_CV_2024.pdf" download> Academic CV </a> 
+Press to download my <a href="https://github.com/gfh112/Lars/blob/master/CV_LarsThomsen_2024.pdf" download> CV </a>
+ and my <a href="https://github.com/gfh112/Lars/blob/master/Academic_CV_2024.pdf" download> Academic CV </a> 
 
 Education
 ======
