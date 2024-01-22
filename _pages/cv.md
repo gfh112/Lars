@@ -8,14 +8,15 @@ redirect_from:
 ---
 {% include base_path %}
 
-Press to download my <a href="https://github.com/gfh112/Lars/blob/0b2b34a3150a22fd2fa88230b9c45d4fc822a636/CV_LarsThomsen_2024.pdf" download> CV </a>
- and my <a href="https://github.com/gfh112/Lars/blob/0b2b34a3150a22fd2fa88230b9c45d4fc822a636/Academic_CV_2024.pdf" download> Academic CV </a> 
+Press to download my <a href="https://github.com/gfh112/Lars/CV_LarsThomsen_2024.pdf" download> CV </a>
+ and my <a href="https://github.com/gfh112/Lars/Academic_CV_2024.pdf" download> Academic CV </a> 
 
 Education
 ======
-* B.S. in Physics, Copenhagen University, 2016
-* M.S. in Astrophysics, Copenhagen University, 2019
-* PhD in Astrophysics, The University of Hong Kong, 2023
+* B.S. in Physics, Copenhagen University, Jul 2016
+* M.S. in Astrophysics, Copenhagen University, Jul 2019
+* PhD in Astrophysics, The University of Hong Kong, Aug 2023
+* Dissertation Year Fellowship, The University of Hong Kong, Oct 2024
 
 
 Skills
