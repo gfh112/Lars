@@ -3,7 +3,7 @@ title: "Modeling X-Ray Multi-Reflection in Super-Eddington Winds"
 collection: publications
 permalink: /publications/Dynamical_TDE
 excerpt: 'When the gas falls rapidly into the black hole, fast and dense winds are launched. Such dense winds have cone-like structures that will reflect the X-ray light. Due to the relatively narrow half-opening angle, the light often undergoes multiple reflections across the wind cone-like wind before escaping to the observer. This picture is very different from the standard reflection of a geometrically thin disk. In this paper, we investigate the importance of accounting for multiple reflections in the X-ray spectrum and how we can tell them apart from the standard geometrically thin disk.'
-date: 2024
+date: 2024-08-01
 venue: 'Astrophysical Journal Letter'
 paperurl: 'https://arxiv.org/abs/2407.08596v1'
 ---
