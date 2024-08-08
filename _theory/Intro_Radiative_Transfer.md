@@ -1,6 +1,7 @@
 ---
 title: 'Introduction to Radiative Transfers'
 permalink: /theory/Radiative_Transfer
+date: 2024-08-01
 tags:
   - Radiative Transfer
   - RT
