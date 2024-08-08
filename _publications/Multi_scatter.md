@@ -1,1 +1,14 @@
+---
+title: "Modeling X-Ray Multi-Reflection in Super-Eddington Winds"
+collection: publications
+permalink: /publications/Dynamical_TDE
+excerpt: 'When the gas falls rapidly into the black hole, fast and dense winds are launched. Such dense winds have cone-like structures that will reflect the X-ray light. Due to the relatively narrow half-opening angle, the light often undergoes multiple reflections across the wind cone-like wind before escaping to the observer. This picture is very different from the standard reflection of a geometrically thin disk. In this paper, we investigate the importance of accounting for multiple reflections in the X-ray spectrum and how we can tell them apart from the standard geometrically thin disk.'
+date: Submitted
+venue: 'Astrophysical Journal Letter'
+paperurl: 'https://arxiv.org/abs/2407.08596v1'
+---
+Fast and dense winds are launched when the gas falls rapidly into the black hole. Such dense winds have cone-like structures that will reflect the X-ray light. Due to the relatively narrow half-opening angle, the light often undergoes multiple reflections across the wind cone-like wind before escaping to the observer. This picture is very different from the standard reflection of a geometrically thin disk. In this paper, we investigate the importance of accounting for multiple reflections in the X-ray spectrum and how we can tell them apart from the standard geometrically thin disk.
 
+<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220602804T/abstract" target="_blank">Access the paper here</a>
+
+Abstract: It has been recently discovered that a few super-Eddington sources undergoing black hole super-Eddington accretion exhibit X-ray reflection signatures. In such new systems, one expects that the coronal X-ray emissions are mainly reflected by optically thick super-Eddington winds instead of thin disks. In this paper, we conduct a series of general relativistic ray-tracing and Monte Carlo radiative transfer simulations to model the X-ray reflection signatures, especially the characteristic Fe Kα line, produced from super-Eddington accretion flows. In particular, we allow the photons emitted by a lamppost corona to be reflected multiple times in a cone-like funnel surrounded by fast winds. We find that the Fe Kα line profile most sensitively depends on the wind kinematics, while its exact shape also depends on the funnel open-angle and corona height. Furthermore, very interestingly, we find that the Fe Kα line can have a prominent double-peak profile in certain parameter spaces even with a face-on orientation. Moreover, we compare the Fe Kα line profiles produced from super-Eddington and thin disks and show that such lines can provide important insights into the understanding of black hole systems undergoing super-Eddington accretion.
