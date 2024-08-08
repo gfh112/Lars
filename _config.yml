@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Lars Lund Thomsen"
   avatar           : "profile.png"
-  bio              : "I am a doctoral researcher at The University of Hong Kong."
+  bio              : "I am a researcher at The University of Hong Kong."
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lars-Thomsen-8" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gfh112"
+  github           : "https://github.com/gfh112/"
   google_plus      :
   keybase          :
   instagram        :
