@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to black holes and X-ray reverberation'
-collection: theory
+collection: publications
 permalink: /theory/X-ray_reverberation
 date: 2022-08-01
 tags:
