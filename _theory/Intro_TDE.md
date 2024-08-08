@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Tidal Disruption Events'
-collection: theory
+collection: publications
 permalink: /theory/TDE
 date: 2023-08-01
 tags:
