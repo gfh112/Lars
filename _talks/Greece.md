@@ -3,7 +3,7 @@ title: " A Review of Recent Advances in Modelling TDE Emission Reprocessing"
 collection: talks
 type: "Talk"
 permalink: /talks/Greece_Neuclear_Transients
-venue: "Zoom"
+venue: "Greece"
 date: 2024-02-09
 location: "Greece, Heraklion" 
 ---
