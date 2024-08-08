@@ -13,6 +13,7 @@ tags:
 
 To be updated!
 
+$x=x^n$
 
 The information we can extract from observations of astrophysical systems relies heavily on our understanding of electromagnetic radiation. To interpret these observations, we must model the production and transport of radiation. Therefore, radiative transfer is a fundamental process in astrophysics that describes how electromagnetic radiation propagates through and interacts with matter
 
