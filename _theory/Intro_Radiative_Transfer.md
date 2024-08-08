@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Radiative Transfers'
-collection: theory
+collection: publications
 permalink: /theory/Radiative_Transfer
 date: 2024-08-01
 tags:
