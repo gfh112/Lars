@@ -1,6 +1,7 @@
 ---
 title: 'Introduction to Tidal Disruption Events'
 permalink: /theory/TDE
+date: 2023-08-01
 tags:
   - Tidal Disruption Event
   - TDE
