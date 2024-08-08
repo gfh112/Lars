@@ -1,6 +1,7 @@
 ---
 title: 'Introduction to black holes and X-ray reverberation'
 permalink: /theory/X-ray_reverberation
+date: 2022-08-01
 tags:
   - X-ray reverberation
   - X-ray fluorescence
