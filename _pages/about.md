@@ -24,19 +24,20 @@ In addition to my research, I enjoy sharing my knowledge through teaching, publi
 Please feel free to explore the other sections of my website to learn more about [my work](https://gfh112.github.io/Lars/theory), [publications](https://gfh112.github.io/Lars/publications), [other passion projects](https://gfh112.github.io/Lars/portfolio/), and [CV](https://gfh112.github.io/Lars/cv/). If you have any questions or want to talk about potential opportunities, feel free to reach me at gfh112@connect.hku.hk or connect with me on any social.
 
 
-
-- <a href="https://github.com/gfh112/">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 5em;"> GitHub
-</a> 
-- <a href="https://www.linkedin.com/in/lars-lund/">
-  <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;"> LinkedIn
-</a> 
-
-- <a href="https://orcid.org/0000-0003-4256-7059">
-  <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 5em;"> ORCID
-</a>
-
-- <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
-  <img src="[https://commons.wikimedia.org/wiki/File:ORCID_iD.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AResearchGate_icon_SVG.svg&psig=AOvVaw0QidWsBVqxwCi3gMzuXgEt&ust=1723644278902000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi8-LqR8ocDFQAAAAAdAAAAABAR)" alt="RG" style="height: 5em;"> Research Gate
-</a>
-
+<p>
+  <a href="https://github.com/gfh112/">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 5em;">GitHub
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lars-lund/">
+    <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;">LinkedIn
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0000-0003-4256-7059">
+    <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 5em;">ORCID
+  </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
+    <img src="https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg" alt="RG" style="height: 5em;">Research Gate
+  </a>
+</p>
