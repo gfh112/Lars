@@ -25,6 +25,9 @@ Please feel free to explore the other sections of my website to learn more about
 
 
 - [GitHub](https://github.com/gfh112/)
-- [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =24x24)](https://github.com/gfh112/) 
+- [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =24x24)](https://github.com/gfh112/)
+- <a href="https://github.com/gfh112/">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 1em;">
+</a> 
 - [LinkedIn](https://www.linkedin.com/in/lars-lund/)
 - [ORCID](http://orcid.org/0000-0003-4256-7059)
