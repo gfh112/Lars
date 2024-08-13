@@ -31,8 +31,6 @@ Please feel free to explore the other sections of my website to learn more about
 - <a href="https://www.linkedin.com/in/lars-lund/">
   <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;">
 </a> 
-- [LinkedIn](https://www.linkedin.com/in/lars-lund/)
-
 <a href="https://orcid.org/0000-0003-4256-7059">
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" style="height: 5em;">
+  <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 5em;">
 </a>
