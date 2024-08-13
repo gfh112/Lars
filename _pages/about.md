@@ -31,6 +31,12 @@ Please feel free to explore the other sections of my website to learn more about
 - <a href="https://www.linkedin.com/in/lars-lund/">
   <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;">
 </a> 
-<a href="https://orcid.org/0000-0003-4256-7059">
+
+- <a href="https://orcid.org/0000-0003-4256-7059">
   <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 5em;">
 </a>
+
+- <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
+  <img src="[https://commons.wikimedia.org/wiki/File:ORCID_iD.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AResearchGate_icon_SVG.svg&psig=AOvVaw0QidWsBVqxwCi3gMzuXgEt&ust=1723644278902000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi8-LqR8ocDFQAAAAAdAAAAABAR)" alt="RG" style="height: 5em;">
+</a>
+
