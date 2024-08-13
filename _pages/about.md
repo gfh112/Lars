@@ -21,4 +21,9 @@ Throughout my academic career, I have developed a diverse set of skills that wou
 
 
 In addition to my research, I enjoy sharing my knowledge through teaching, public outreach, and mentoring students. 
-Please feel free to explore the other sections of my website to learn more about my work, publications, and interactive content. If you have any questions or would like to discuss potential opportunities, you can reach me at gfh112@connect.hku.hk.
+Please feel free to explore the other sections of my website to learn more about [my work](https://github.com/gfh112/theory), [publications](https://gfh112.github.io/Lars/publications), [other passion projects](https://gfh112.github.io/Lars/portfolio/), and [CV](https://gfh112.github.io/Lars/cv/). If you have any questions or want to talk about potential opportunities, feel free to reach me at gfh112@connect.hku.hk.
+
+
+- [GitHub](https://github.com/gfh112/)
+- [LinkedIn](https://www.linkedin.com/in/lars-lund/)
+- [ORCID](http://orcid.org/0000-0003-4256-7059)
