@@ -26,18 +26,18 @@ Please feel free to explore the other sections of my website to learn more about
 
 <p>
   <a href="https://github.com/gfh112/">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 5em;">GitHub
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 2em;">GitHub
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/lars-lund/">
-    <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;">LinkedIn
+    <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 2em;">LinkedIn
   </a>
   &nbsp;
   <a href="https://orcid.org/0000-0003-4256-7059">
-    <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 5em;">ORCID
+    <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 2em;">ORCID
   </a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
-    <img src="https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg" alt="RG" style="height: 5em;">Research Gate
+    <img src="https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg" alt="RG" style="height: 2em;">Research Gate
   </a>
 </p>
