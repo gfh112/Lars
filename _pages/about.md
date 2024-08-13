@@ -24,10 +24,15 @@ In addition to my research, I enjoy sharing my knowledge through teaching, publi
 Please feel free to explore the other sections of my website to learn more about [my work](https://gfh112.github.io/Lars/theory), [publications](https://gfh112.github.io/Lars/publications), [other passion projects](https://gfh112.github.io/Lars/portfolio/), and [CV](https://gfh112.github.io/Lars/cv/). If you have any questions or want to talk about potential opportunities, feel free to reach me at gfh112@connect.hku.hk or connect with me on any social.
 
 
-- [GitHub](https://github.com/gfh112/)
-- [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =24x24)](https://github.com/gfh112/)
+
 - <a href="https://github.com/gfh112/">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 1em;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 5em;">
+</a> 
+- <a href="https://www.linkedin.com/in/lars-lund/">
+  <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" style="height: 5em;">
 </a> 
 - [LinkedIn](https://www.linkedin.com/in/lars-lund/)
-- [ORCID](http://orcid.org/0000-0003-4256-7059)
+
+<a href="https://orcid.org/0000-0003-4256-7059">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" style="height: 5em;">
+</a>
