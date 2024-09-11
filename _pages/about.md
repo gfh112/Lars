@@ -34,7 +34,7 @@ Please feel free to explore the other sections of my website to learn more about
   </a>
   &nbsp;
   <a href="https://orcid.org/0000-0003-4256-7059">
-    <img src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="ORCID" style="height: 2em;">ORCID
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="height: 2em;">ORCID
   </a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
