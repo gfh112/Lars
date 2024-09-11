@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2D_Reprocessing
 excerpt: 'In this paper, we explore the radiative transfer postprocessing of a 2D accretion flow geometry, moving beyond the 1D spherical case. Our findings indicate that photons in 2D are less likely to become trapped, allowing them to escape more readily along low-opacity viewing angles. This results in increased optical luminosity for small viewing angles, aligning more closely with observational data. Additionally, we observe that the evolution of optical-to-X-ray luminosity still varies with the viewing angle.'
 date: 2024-08-01
-venue: 'Astrophysical Journal Letter'
+venue: 'MNRAS'
 paperurl: 'https://arxiv.org/abs/2407.08596v1'
 ---
 In this paper, we explore the radiative transfer postprocessing of a 2D accretion flow geometry, moving beyond the 1D spherical case. Our findings indicate that photons in 2D are less likely to become trapped, allowing them to escape more readily along low-opacity viewing angles. This results in increased optical luminosity for small viewing angles, aligning more closely with observational data. Additionally, we observe that the evolution of optical-to-X-ray luminosity still varies with the viewing angle.
