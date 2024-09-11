@@ -38,6 +38,6 @@ Please feel free to explore the other sections of my website to learn more about
   </a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Lars-Thomsen-8">
-    <img src="https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg" alt="RG" style="height: 2em;">Research Gate
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="RG" style="height: 2em;">Research Gate
   </a>
 </p>
